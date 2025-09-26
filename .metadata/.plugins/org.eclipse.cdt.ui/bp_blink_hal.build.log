@@ -1,0 +1,10 @@
+10:46:29 **** Incremental Build of configuration Debug for project bp_blink_hal ****
+make -j12 all 
+arm-none-eabi-size  bp_blink_hal.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4592	     12	   1572	   6176	   1820	bp_blink_hal.elf
+Finished building: default.size.stdout
+ 
+
+10:46:29 Build Finished. 0 errors, 0 warnings. (took 139ms)
+
