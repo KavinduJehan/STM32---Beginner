@@ -1,0 +1,10 @@
+15:17:08 **** Incremental Build of configuration Debug for project bp_switch_hal ****
+make -j12 all 
+arm-none-eabi-size  bp_switch_hal.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4684	     12	   1572	   6268	   187c	bp_switch_hal.elf
+Finished building: default.size.stdout
+ 
+
+15:17:08 Build Finished. 0 errors, 0 warnings. (took 198ms)
+
